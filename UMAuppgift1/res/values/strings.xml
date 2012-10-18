@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UMAuppgift1</string>
+    <string name="answers">ANSWERS</string>
+    <string name="quiz_finished">Quiz finished</string>
+    <string name="out_of_x_questions_you_got">Out of %d questions you got</string>
+    <string name="x_correct_answers">%d correct answers</string>
+    <string name="x_incorrect_answers">%d incorrect answers</string>
+    <string name="grade_x">Grade: %d</string>
+    <string name="restart">Restart</string>
+
+</resources>
