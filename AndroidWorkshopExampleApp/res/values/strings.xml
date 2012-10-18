@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">#android</string>
+    <string name="twitter_search_string">http://search.twitter.com/search.json?q=%23android</string>
+    <string name="sync">Sync</string>
+
+</resources>
